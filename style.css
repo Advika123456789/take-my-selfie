@@ -1,0 +1,10 @@
+body{
+    background-color: darksalmon;
+}
+
+.heading{
+background-color: rgb(219, 255, 219);
+font-weight: bold;
+font-size: larger;
+width: 70%;
+}
